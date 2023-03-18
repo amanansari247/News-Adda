@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.headerTitle{
+    font-size: 2vw;
+    font-weight: 400;
+    font-family: cursive;
+}
+@media (max-width:700px) { 
+  .aman{
+    width: 100%;
+  }
+ }
